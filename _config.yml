@@ -2,6 +2,8 @@
 # This file contains configuration flags to customize your site
 #
 
+theme: jekyll-theme-time-machine
+
 # Name of your site (displayed in the header)
 name: Brent Stewart
 
@@ -84,7 +86,5 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
-theme: jekyll-theme-time-machine
-
+  
 timezone: UTC-6
