@@ -85,6 +85,6 @@ exclude:
   - README.md
   - CNAME
 
-theme: jekyll-theme-merlot
+theme: jekyll-theme-time-machine
 
 timezone: UTC-6
