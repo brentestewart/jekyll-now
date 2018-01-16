@@ -86,3 +86,4 @@ exclude:
   - CNAME
 
 timezone: UTC-6
+theme: jekyll-theme-slate
