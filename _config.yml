@@ -87,4 +87,4 @@ exclude:
 
 theme: jekyll-theme-slate
 
-future: true
+timezone: UTC-6
