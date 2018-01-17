@@ -2,8 +2,6 @@
 # This file contains configuration flags to customize your site
 #
 
-theme: jekyll-theme-leap-day
-
 # Name of your site (displayed in the header)
 name: Brent Stewart
 
@@ -88,3 +86,5 @@ exclude:
   - CNAME
   
 timezone: UTC-6
+
+theme: jekyll-theme-leap-day
